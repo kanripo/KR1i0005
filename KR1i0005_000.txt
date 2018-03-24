@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 韶舞九成樂補
-#+DATE: 2018-03-24 09:40:49.299687
+#+DATE: 2018-03-24 09:40:49.327844
 #+PROPERTY: ID KR1i0005
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1i0005_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部九¶
